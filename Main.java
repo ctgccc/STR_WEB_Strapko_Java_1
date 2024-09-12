@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Не заходи сюда");
         System.out.println("пожалуйста");
         System.out.println("никогдда");
+        System.out.println("!!!!!!!");
+        
     }
 }
